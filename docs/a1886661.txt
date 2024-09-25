@@ -1,6 +1,9 @@
 ## [unreleased]
 
 ### Changed
+- Fixed low severity UPPERCASE issue in `a1886661.txt`. (See Issue #3)
+
+### Changed
 - Fixed high severity issue: Removed XXXXXXX from `a1886661.txt`. (See Issue #2)
 
 ### Added
