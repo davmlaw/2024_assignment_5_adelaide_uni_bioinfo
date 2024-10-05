@@ -10,3 +10,10 @@
 
 - Initial commit
 
+## [0.1.2] - 2024-10-05
+
+### Changed
+
+- Deleted 'XXXXXX' from Line 3 of data/a1795973.txt (Fixing Issue #8 https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/8)
+ 
+- Fixed UPPERCASE bug from Lines 3 and 5 of data/a1795973.txt (Fixing Issue #9 https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/9) 
