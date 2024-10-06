@@ -10,3 +10,5 @@
 
 - Initial commit
 
+### Changed
+- Removed the 3 insteritons of 'XXXXXXX' from line 1
