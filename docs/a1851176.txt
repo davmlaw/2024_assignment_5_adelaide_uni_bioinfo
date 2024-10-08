@@ -10,3 +10,6 @@
 
 - Initial commit
 
+###CHANGED
+
+- Fix issue #20 (removed 'XXXXXXX')
