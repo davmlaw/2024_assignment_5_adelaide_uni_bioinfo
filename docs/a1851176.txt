@@ -13,3 +13,7 @@
 ###CHANGED
 
 - Fix issue #20 (removed 'XXXXXXX')
+
+### CHANGED
+
+- Fix issue #22 (change UPPERCASE to lowercase)
