@@ -10,3 +10,6 @@
 
 - Initial commit
 
+### Changed
+
+- Fixed XXXXXXX bug in 'data/a1954027.txt' (issue #1)
