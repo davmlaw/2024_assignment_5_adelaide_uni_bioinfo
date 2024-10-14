@@ -10,3 +10,4 @@
 
 - Initial commit
 - Fix high severity issue which adding 3 XXXXXXX in the file by removing it
+- Fix low severity issue which change some word to uppercase by rewriting it
