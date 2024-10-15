@@ -9,7 +9,7 @@
 ## Changed 
 
 - removal of 'XXXXXXX ' from data/a1645191.txt  - issue #70 
-
+- change UPPERCASE type to lowercase from data/a1645191.txt  - issue #71
 
 ## [0.1.1] - 2024-09-23
 
