@@ -10,3 +10,5 @@
 
 - Initial commit
 
+### Changed
+- Remove unexpected 'XXXXXXX' strings in file data/a1947841.txt to improve the cohesion of the text. (Resolve issue #65)
