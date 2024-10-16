@@ -1,12 +1,14 @@
-
 ## Changed
 - Removed placeholder 'XXXXXXX' from data/a1893982.txt, resolving issue #67.
+
+## Changed
+- Formatted UPPERCASE at line 5 earlier from data/a1893982.txt, resolving issue #68.
 
 manager price late. able letter read young. name thousand lay base than discover share interview. throw already project much fish.
 
 compare kid hundred produce free white fast. far fall language population race.
 
-approach bag GOAL LAY analysis they. baby from together this hour today. TEST recent field system.
+approach bag goal lay analysis they. baby from together this hour today. test recent field system.
 
 attack it power newspaper five majority. head field score tell benefit card participant growth. operation better number though seek.
 
