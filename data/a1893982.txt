@@ -1,3 +1,4 @@
+
 ## Changed
 - Removed placeholder 'XXXXXXX' from data/a1893982.txt, resolving issue #67.
 
