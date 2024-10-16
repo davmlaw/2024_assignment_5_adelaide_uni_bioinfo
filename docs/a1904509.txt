@@ -10,3 +10,6 @@
 
 - Initial commit
 
+### Changed
+
+- Removed XXXXX from line 1 of a1904509.txt linked to issue #77
