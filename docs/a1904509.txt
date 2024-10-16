@@ -12,4 +12,8 @@
 
 ### Changed
 
-- Removed XXXXX from line 1 of a1904509.txt linked to issue #77
+- Fixed high severity issue #77 to remove XXXXX from line 1 of data/a1904509.txt
+
+### Changed
+
+- Fixed low severity issue #78 to change uppercase words to lowercase in line 1 of data/a1904509.txt
