@@ -10,3 +10,7 @@
 
 - Initial commit
 
+### CHANGED 
+
+Fixed high severity issue (XXXXXXX) in data/a1773594 file. See issue #72 https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/72
+
