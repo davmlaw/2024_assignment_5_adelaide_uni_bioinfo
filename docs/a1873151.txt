@@ -1,9 +1,12 @@
 ## [unreleased]
 
+### CHANGED
+
+- Fixed high severity issue `XXXXXXX` in `data/a1873151.txt`. The issue involved removing `XXXXXXX` and ensuring there was only one space between the words. See [issue #115](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/115).
+
 ### Added
 
 - [Generate initial text files for students](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/1) - including initial errors
-- Fixed high severity issue XXXXXXX in `data/a1873151.txt`. See [issue #115](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/115).
 
 ## [0.1.1] - 2024-09-23
 
