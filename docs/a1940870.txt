@@ -13,3 +13,7 @@
 ### Changed 
 
 - Removed the XXXXXXX insertion of the high severity issue
+
+### Changed
+
+- Changed the UPPERCASE words to lowercase words of the low severity issue
