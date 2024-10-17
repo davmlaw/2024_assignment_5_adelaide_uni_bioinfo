@@ -2,6 +2,10 @@
 
 ### CHANGED
 
+- Fixed low severity issue "UPPERCASE"" in `data/a1873151.txt`. See [issue #118](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/118).
+
+### CHANGED
+
 - Fixed high severity issue `XXXXXXX` in `data/a1873151.txt`. The issue involved removing `XXXXXXX` and ensuring there was only one space between the words. See [issue #115](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/115).
 
 ### Added
