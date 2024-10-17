@@ -10,3 +10,6 @@
 
 - Initial commit
 
+### Changed 
+
+- Removed the XXXXXXX insertion of the high severity issue
