@@ -10,3 +10,7 @@
 
 - Initial commit
 
+### CHANGED
+
+- [fixed High severity issue "XXXXXXX"]
+
