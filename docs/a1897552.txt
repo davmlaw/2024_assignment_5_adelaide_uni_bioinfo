@@ -10,3 +10,6 @@
 
 - Initial commit
 
+### CHANGED
+
+- [Fixed high severity issue in a1897552.txt file by removing three insertions of 'XXXXXXX'] - 16/10/2024
