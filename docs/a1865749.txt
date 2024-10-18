@@ -13,3 +13,4 @@
 ### Changed
 
 - Fix high severity issue #52 which adding 3 XXXXXXX in the file by removing it
+- Fix low severity issue #51 which changed word to UPPERCASE in the file by rewrite it to normal
