@@ -10,3 +10,6 @@
 
 - Initial commit
 
+###Changed
+
+- Removed unnecessary XXXXXXX incidents
