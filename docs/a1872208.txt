@@ -10,3 +10,10 @@
 
 - Initial commit
 
+## [0.1.2] - 2024-10-18
+
+### Changed
+
+- Fixed High severity bug "XXXXXXX" insertion in file data/a1872208.txt
+- Fixed Low severity bug "UPPERCASE" substitution in file data/a1872208.txt
+
