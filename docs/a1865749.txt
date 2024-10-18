@@ -10,3 +10,6 @@
 
 - Initial commit
 
+### Changed
+
+- Fix high severity issue #52 which adding 3 XXXXXXX in the file by removing it
