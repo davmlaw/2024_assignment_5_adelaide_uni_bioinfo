@@ -10,3 +10,8 @@
 
 - Initial commit
 
+### Changed
+
+- Rectified high severity bug of "XXXXXXX" insertions in line 1. Git hash: 2bfc2527eadee65007ae10bb3e6be9fe3ab39565
+- Rectified low severity bug of inappropriate use of uppercase in line 1 and line 11. Git hash:d460fc416279530420d94629efe8de2f12734d65
+
