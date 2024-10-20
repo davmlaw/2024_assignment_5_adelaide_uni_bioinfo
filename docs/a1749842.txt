@@ -10,3 +10,5 @@
 
 - Initial commit
 
+### Changed
+- Fixed XXXXXXX placeholders in data/a1749842.txt for high severity issue number: #146
