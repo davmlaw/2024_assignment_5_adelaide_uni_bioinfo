@@ -1,5 +1,11 @@
 ## [unreleased]
 
+### Changed
+- Fixed low severity UPPERCASE issue in `a1886661.txt`. (See Issue #3)
+
+### Changed
+- Fixed high severity issue: Removed XXXXXXX from `a1886661.txt`. (See Issue #2)
+
 ### Added
 
 - [Generate initial text files for students](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/1) - including initial errors
@@ -9,4 +15,3 @@
 ### Added
 
 - Initial commit
-
