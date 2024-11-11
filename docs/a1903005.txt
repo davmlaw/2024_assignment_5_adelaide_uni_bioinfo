@@ -10,3 +10,8 @@
 
 - Initial commit
 
+### CHANGED
+- High severity issue number: #47
+
+###CHANGED
+- Low severity issue number: #54
