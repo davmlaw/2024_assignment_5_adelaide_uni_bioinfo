@@ -1,5 +1,13 @@
 ## [unreleased]
 
+### Changed
+
+	- Change text to lowercase in Line 1
+
+### Changed
+
+	- Remove 'XXXXXXX' insertions from Line 1
+
 ### Added
 
 - [Generate initial text files for students](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/1) - including initial errors
