@@ -10,3 +10,6 @@
 
 - Initial commit
 
+### CHANGED
+
+- Fixed High severity issues
