@@ -10,3 +10,14 @@
 
 - Initial commit
 
+## [0.1.2] - 2024-10-08
+
+### Changed
+
+- Resolved Issue #21 (https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/21)
+
+## [0.1.3] - 2024-10-08
+
+### Changed
+
+- Resolved Issue #23 (https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/23)
