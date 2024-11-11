@@ -10,3 +10,8 @@
 
 - Initial commit
 
+### Changed
+- Fixed high severity issue (XXXXXXX) in data/a1909154.txt
+
+### Changed
+- Fixed low severity issue (UPPERCASE) in data/a1909154.txt
