@@ -10,3 +10,10 @@
 
 - Initial commit
 
+### Changed
+
+- Fixed high severity issue #77 to remove XXXXX from line 1 of data/a1904509.txt
+
+### Changed
+
+- Fixed low severity issue #78 to change uppercase words to lowercase in line 1 of data/a1904509.txt
