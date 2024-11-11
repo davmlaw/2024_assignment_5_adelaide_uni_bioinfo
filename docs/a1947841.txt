@@ -10,3 +10,8 @@
 
 - Initial commit
 
+### Changed
+- Remove unexpected 'XXXXXXX' strings in file data/a1947841.txt to improve the cohesion of the text. (Resolve issue #65)
+
+### Changed
+- Turn UPPERCASE words into lowercase words so that the text is consistent. (Resolve issue #66)
