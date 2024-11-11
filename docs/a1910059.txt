@@ -10,3 +10,10 @@
 
 - Initial commit
 
+### CHANGED
+
+- [fixed High severity issue "XXXXXXX"]
+
+### CHANGED
+
+-Fixed Low severity issue [Uppercase Letters]
