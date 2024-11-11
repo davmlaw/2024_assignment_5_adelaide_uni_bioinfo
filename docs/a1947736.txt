@@ -10,3 +10,10 @@
 
 - Initial commit
 
+### Changed
+
+- Fixed high severity issue in data file
+
+### Changed                                                                                           
+
+- Fixed low severity issue in data file
