@@ -10,3 +10,14 @@
 
 - Initial commit
 
+## [0.1.2] - 2024-10-18
+
+### Changed
+
+- "XXXXXXX" insertion into Line 1 and Line 3 was removed. 
+
+## [0.1.3] - 2024-10-18
+
+### Changed
+
+- UPPERCASE substitutions into Line 1 was resolved.
