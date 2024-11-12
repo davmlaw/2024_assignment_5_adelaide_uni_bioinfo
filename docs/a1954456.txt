@@ -9,4 +9,5 @@
 ### Added
 
 - Initial commit
-
+- "fix issue #75"
+- "fix issue #76"
