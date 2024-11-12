@@ -10,3 +10,9 @@
 
 - Initial commit
 
+### CHANGED 
+
+Fixed high severity issue (XXXXXXX) in data/a1773594 file. See issue #72 https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/72
+
+### CHANGED
+Fixed low severity issue (UPPERCASE) in data/ file. See issue #73  https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/73
