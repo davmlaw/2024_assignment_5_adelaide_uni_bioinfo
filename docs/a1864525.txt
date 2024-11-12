@@ -10,3 +10,10 @@
 
 - Initial commit
 
+###Changed
+
+- Removed unnecessary XXXXXXX incidents
+
+###Changed
+
+- Change words SIGN, CITY, and WORLD from uppercase to lowercase
